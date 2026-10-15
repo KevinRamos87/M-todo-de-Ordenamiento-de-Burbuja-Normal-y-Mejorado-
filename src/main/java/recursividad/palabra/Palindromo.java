@@ -30,7 +30,7 @@ public class Palindromo {
     public static void main(String[] args) {
         Palindromo p = new Palindromo();
         
-        // Aquí puedes cambiar la palabra para probar
+       
         String palabraPrueba = "radar"; 
         
         boolean resultado = p.esPalindromo(palabraPrueba);
